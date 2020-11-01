@@ -1,0 +1,2 @@
+# map-hack
+maling: haram
